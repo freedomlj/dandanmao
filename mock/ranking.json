@@ -1,0 +1,38 @@
+[
+{
+	"num":"1",
+	"name":"印尼进口 丽芝士Richeese奶酪威化饼干",
+	"price":"10.8",
+	"img":"img/goods/201605100927335459_thumbnail.jpg"
+},
+{
+	"num":"2",
+	"name":"马来西亚进口 上扬SunSoya白咖啡+奶茶 2盒组合装",
+	"price":"39.8",
+	"img":"img/goods/201602191459242429_thumbnail.jpg"
+},
+{
+	"num":"3",
+	"name":"中国制造 惊奇Aji夹心饼干 柠檬味 家庭装 750g",
+	"price":"29.8",
+	"img":"img/goods/201603301441124367_thumbnail.jpg"
+},
+{
+	"num":"4",
+	"name":"香港进口 时选Fashion Choice葡挞饼 蓝莓味",
+	"price":"15.8",
+	"img":"img/goods/201610270910296739_thumbnail.jpg"
+},
+{
+	"num":"5",
+	"name":"越南进口 丹帝DAN.D.PAK腰果 盐焗 超值装 1kg",
+	"price":"135",
+	"img":"img/goods/201604071415294362_thumbnail.jpg"
+},
+{
+	"num":"6",
+	"name":"马来西亚进口 倍乐思Beryl‘s什锦巧克力 礼盒装 伴手礼",
+	"price":"39.8",
+	"img":"img/goods/201604270842374849_thumbnail.jpg"
+}
+]
