@@ -5,6 +5,8 @@
 		<title>首页</title>
 		<link rel="stylesheet" type="text/css" href="css/case.css"/>
 		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+		<link rel="stylesheet" type="text/css" href="css/header.css"/>
+		<link rel="stylesheet" type="text/css" href="css/footer.css"/>
 	</head>
 	<body>
 		<script src="lib/jquery/jquery-1.12.4.min.js"></script>
@@ -15,85 +17,9 @@
 		</div>
 		<!--header-->
 		<div id="header">
-			<div class="g-toolbar">
-				<div class="wrapper">
-					<div class="collect">
-						<a href="##">收藏本站</a>
-					</div>
-				</div>
-				
-				<div class="tool-link">
-					<div class="user">
-						d(=^･ω･^=)b 喵!主人你好：
-						<a href="##" id="username">d258b</a>
-					</div>
-					<ul>
-						<li><a href="##">我的订单</a></li>
-						<li><a href="##">退出</a></li>
-						<li><a href="##">帮助中心</a></li>
-						<li><a href="##">吃货小分队</a></li>
-						<li class="phone">0755-66831010</li>
-					</ul>
-				</div>
-			</div>
-			
-			<div class="g-header">
-				<div class="wrapper">
-					<div class="logo">
-						<h1>
-							<a href="##"><img src="http://www.ddmoo.com/statics/attachment/spec/201607121731140423.png" alt="蛋蛋猫logo" title="蛋蛋猫logo"/><span>蛋蛋猫</span></a>
-						</h1>
-					</div>
-					
-					<div class="search">
-						<input type="text" id="keyword" placeholder="请输入关键字，如品牌、类别等" />
-						<input type="button" class="search-btn" value="找零食"/>
-						<div class="hot-search">
-							<a href="##">蜂蜜</a>
-							<a href="##">棉花糖</a>
-							<a href="##">木薯片</a>
-							<a href="##">儿童饼干</a>
-							<a href="##">罐头</a>
-							<a href="##">紫菜</a>
-							<a href="##">饼干棒</a>
-						</div>
-					</div>
-					
-					<div class="cart">
-						<a href="##">
-							<span>
-								<div class="gw">我的购物车</div>
-								<div class="gort">
-									<b class="num">0</b>
-									<img src="img/index/gort_xl.jpg" />
-								</div>
-							</span>
-						</a>
-					</div>
-					
-					<div class="nav">
-						<div class="all-sort">
-							<h3>全部商品分类</h3>
-							<ul id="classif">
-								
-							</ul>
-						</div>
-						
-						<ul class="main-nav">
-							<li><a href="##">首页</a></li>
-							<li><a href="##">特卖会</a></li>
-							<li><a href="##">办公加油</a></li>
-							<li><a href="##">营养早餐</a></li>
-							<li><a href="##">美颜养生</a></li>
-							<li><a href="##">聚会分享</a></li>
-							<li><a href="##">本周特惠</a></li>
-						</ul>
-						
-					</div>
-				</div>
-			</div>
-			
-			
+			<script>
+				$("#header").load("html/header.html");
+			</script>			
 		</div>
 		
 		<!--main-->
@@ -121,11 +47,13 @@
 				</ul>
 			</div>
 			
+			
 			<div class="wrapper">
 				<div class="description">
 					<img src="img/index/banner_06.jpg"/>
 				</div>
 				
+				<!--new_project-->
 				<div class="new_project">
 					<h3>新品推荐</h3>
 					<div class="common">
@@ -136,26 +64,59 @@
 					</div>
 					
 					<ul class="ranking">
-						<h4>销量排行</h4>
-						<!--<li>
-							<em>1</em>
-							<a href="##"><img src="img/goods/201605100927335459_thumbnail.jpg"/></a>
-							<p><a href="##">印尼进口 丽芝士Richeese奶酪威化饼干</a></p>
-							<span>10.8</span>
-						</li>
-						<li>
-							<em>2</em>
-							<a href="##"><img src="img/goods/201605100927335459_thumbnail.jpg"/></a>
-							<p><a href="##">印尼进口 丽芝士Richeese奶酪威化饼干</a></p>
-							<span>10.8</span>
-						</li>-->
 					</ul>
+					
+				</div>
+				
+				<!--allfloor-->
+				<div class="allfloor">
+					<div class="floor">
+						<div class="f_l">
+							<div class="ftitle">
+								<h2>
+									<span>1F</span>
+									<b>休闲零食</b>
+								</h2>
+							</div>
+							
+							<div class="f_btn_box">
+								<a href="##" class="f_btn">膨化</a>
+								<a href="##" class="f_btn">薯片</a>
+								<a href="##" class="f_btn">泡芙</a>
+							</div>
+							
+							<a href="##" class="adp">
+								<img src="img/index/201606131357476507.jpg"/>
+							</a>
+						</div>
+						
+						<ul class="f_r">
+							<li>
+								<a href="##">
+									<img src="img/goods/201507211655467940_thumbnail.jpg"/>
+									<p>泰国进口 座山Chao Sua松米饼 虾丝</p>
+									<b>￥16.80</b><del>￥33.00</del>
+									<div class="add_cart">加入购物车</div>
+								</a>
+							</li>
+							
+						</ul>
+					</div>
+							
+					
 					
 				</div>
 				
 			</div>
 			
 			
+		</div>
+		
+		<!--footer-->
+		<div id="footer">
+			<script>
+				$("#footer").load("html/footer.html");
+			</script>	
 		</div>
 	</body>
 </html>

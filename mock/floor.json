@@ -1,0 +1,349 @@
+[
+{
+	"f_num":"1F",
+	"f_name":"休闲零食",
+	"f_btn":[
+		"膨化","薯片","泡芙"
+	],
+	"f_img":"img/index/201606131357476507.jpg",
+	"f_list":[{
+		"img":"img/goods/201507211655467940_thumbnail.jpg",
+		"name":"泰国进口 座山Chao Sua松米饼 虾丝",
+		"price":"￥16.80",
+		"del":"￥33.00"
+	},{
+		"img":"img/goods/201602241123110928_thumbnail.jpg",
+		"name":"香港进口 EDO.pack巨浪大切薯片 紫菜味",
+		"price":"￥12.80",
+		"del":"￥26.00"
+	},{
+		"img":"img/goods/201610261725200523_thumbnail.jpg",
+		"name":"香港进口 EDO.pack巨浪大切薯片 沙律酱焗薯味",
+		"price":"￥12.80",
+		"del":"￥26.00"
+	},{
+		"img":"img/goods/201507091551530722_thumbnail.jpg",
+		"name":"马来西亚进口 印象SIMELO木薯片 香辣柠檬味",
+		"price":"￥13.80",
+		"del":"￥27.00"
+	},{
+		"img":"img/goods/201604141032548672_thumbnail.jpg",
+		"name":"泰国进口 韩福10.2烧烤味棕米片 非油炸",
+		"price":"￥4.50",
+		"del":"￥13.00"
+	},{
+		"img":"img/goods/201612070906038017_thumbnail.jpg",
+		"name":"喜利达 柠檬味椰丝球 300g",
+		"price":"￥19.00",
+		"del":"￥29.00"
+	}]
+},
+{
+	"f_num":"2F",
+	"f_name":"饼干糕点",
+	"f_btn":[
+		"饼干","饼干棒","曲奇马卡龙","面包蛋糕","传统糕点","地方特产"
+	],
+	"f_img":"img/index/201606121449292931.jpg",
+	"f_list":[{
+		"img":"img/goods/201509021342271454_thumbnail.jpg",
+		"name":"泰国进口 帝皇Imperial丹麦牛油曲奇 草莓果酱",
+		"price":"￥5.80",
+		"del":"￥11.00"
+	},{
+		"img":"img/goods/201606031502518675_thumbnail.jpg",
+		"name":"台湾进口 皇族Royal Family马卡龙糖片 情人节礼物",
+		"price":"￥19.80",
+		"del":"￥40.00"
+	},{
+		"img":"img/goods/201506031449083856_thumbnail.jpg",
+		"name":"马来西亚进口 伦敦LONBISCO熊熊蛋糕 巧克力味",
+		"price":"￥19.80",
+		"del":"￥39.00"
+	},{
+		"img":"img/goods/201603070902477723_thumbnail.jpg",
+		"name":"印尼进口 哈姆Hamu小熊儿童饼干 草莓味",
+		"price":"￥14.80",
+		"del":"￥30.00"
+	},{
+		"img":"img/goods/201610270918398386_thumbnail.jpg",
+		"name":"马来西亚进口 伦敦LONBISCO熊熊蛋糕 牛奶味",
+		"price":"￥19.80",
+		"del":"￥39.00"
+	},{
+		"img":"img/goods/201606081541279343_thumbnail.jpg",
+		"name":"韩国进口 乐天杰克夹心饼干 咸味",
+		"price":"￥5.80",
+		"del":"￥12.00"
+	},{
+		"img":"img/goods/201601201013087809_thumbnail.jpg",
+		"name":"泰国进口 格力高Glico百醇注心饼干棒 巧克力味",
+		"price":"￥6.80",
+		"del":"￥14.00"
+	},{
+		"img":"img/goods/201704281106589589_thumbnail.jpg",
+		"name":"越南进口零食品lipo面包干100g利葡牛奶鸡蛋饼干",
+		"price":"￥7.70",
+		"del":"￥12.00"
+	}]
+},
+{
+	"f_num":"3F",
+	"f_name":"糖果巧克力",
+	"f_btn":[
+		"巧克力","棒棒糖","棉花糖","口香糖","水果糖","润喉糖"
+	],
+	"f_img":"img/index/201606131157436094.jpg",
+	"f_list":[{
+		"img":"img/goods/201606141621193572_thumbnail.jpg",
+		"name":"菲律宾进口 可尼斯CorNicheE白雪公主棉花糖 牛轧糖原料",
+		"price":"￥18.80",
+		"del":"￥38.00"
+	},{
+		"img":"img/goods/201606141646149897_thumbnail.jpg",
+		"name":"马来西亚进口 倍乐思Beryl's提拉米苏扁桃仁夹心白巧克力豆",
+		"price":"￥15.80",
+		"del":"￥31.00"
+	},{
+		"img":"img/goods/201507171007395210_thumbnail.jpg",
+		"name":"马来西亚进口 可康COCON心形什锦果汁软糖 喜糖",
+		"price":"￥31.80",
+		"del":"￥63.00"
+	},{
+		"img":"img/goods/201609281628327659_thumbnail.jpg",
+		"name":"马来西亚进口 倍乐思混合牛奶白巧克力65g  办公室休闲零食",
+		"price":"￥13.80",
+		"del":"￥20.00"
+	},{
+		"img":"img/goods/201604261431105648_thumbnail.jpg",
+		"name":"德国进口 无极woogie综合水果糖",
+		"price":"￥12.80",
+		"del":"￥29.00"
+	},{
+		"img":"img/goods/201507060931472480_thumbnail.jpg",
+		"name":"菲律宾进口 可尼斯CorNicheE泰迪棉花糖 巧克力味",
+		"price":"￥5.80",
+		"del":"￥12.00"
+	},{
+		"img":"img/goods/201603040926037744_thumbnail.jpg",
+		"name":"韩国进口 海太해태爱心猫白巧克力棒棒糖",
+		"price":"￥7.80",
+		"del":"￥15.00"
+	},{
+		"img":"img/goods/201604081522364811_thumbnail.jpg",
+		"name":"菲律宾进口 可尼斯CorNicheE白雪公主棉花糖 巨型",
+		"price":"￥18.80",
+		"del":"￥38.00"
+	}]
+},
+{
+	"f_num":"4F",
+	"f_name":"冲饮保健",
+	"f_btn":[
+		"咖啡","奶茶","蜂产品","研磨粉","谷物麦圈","功能保健"
+	],
+	"f_img":"img/index/201606131434535041.jpg",
+	"f_list":[{
+		"img":"img/goods/201606031504106927_thumbnail.jpg",
+		"name":"马来西亚进口 上扬SunSoya奶茶 3合1",
+		"price":"￥22.80",
+		"del":"￥45.00"
+	},{
+		"img":"img/goods/201511121536553304_thumbnail.jpg",
+		"name":"韩国进口 卫官庄高丽人参茶 鹤标 伴手礼",
+		"price":"￥44.80",
+		"del":"￥90.00"
+	},{
+		"img":"img/goods/201602191353388895_thumbnail.jpg",
+		"name":"韩国进口 韩美禾한미화蜂蜜芦荟茶",
+		"price":"￥38.80",
+		"del":"￥77.00"
+	},{
+		"img":"img/goods/201605301428192667_thumbnail.jpg",
+		"name":"韩国进口 韩美禾한미화蜂蜜木瓜梨茶",
+		"price":"￥38.80",
+		"del":"￥77.00"
+	},{
+		"img":"img/goods/201605101136348074_thumbnail.jpg",
+		"name":"韩国进口 韩福10.2蜂蜜大枣茶",
+		"price":"￥35.00",
+		"del":"￥112.00"
+	}]
+},
+{
+	"f_num":"5F",
+	"f_name":"坚果蜜饯",
+	"f_btn":[
+		"花生","蚕豆","腰果","豌豆","蔬菜干","果脯蜜饯"
+	],
+	"f_img":"img/index/201606131436003681.jpg",
+	"f_list":[{
+		"img":"img/goods/201606141649035683_thumbnail.jpg",
+		"name":"泰国进口 大哥koh-kae花生 椰浆味",
+		"price":"￥18.80",
+		"del":"￥38.00"
+	},{
+		"img":"img/goods/201509021657515216_thumbnail.jpg",
+		"name":"马来西亚进口 印象SIMELO脆皮花生 椰香味",
+		"price":"￥12.80",
+		"del":"￥26.00"
+	},{
+		"img":"img/goods/201602061012586538_thumbnail.jpg",
+		"name":"新加坡进口 骆驼Camel腰果 原味",
+		"price":"￥40.80",
+		"del":"￥81.00"
+	},{
+		"img":"img/goods/201612121622169881_thumbnail.jpg",
+		"name":"蛋蛋猫 开口松子 330g",
+		"price":"￥39.90",
+		"del":"￥55.00"
+	},{
+		"img":"img/goods/201612121542163201_thumbnail.jpg",
+		"name":"蛋蛋猫 紫衣腰果 180g",
+		"price":"￥21.90",
+		"del":"￥29.00"
+	},{
+		"img":"img/goods/201612121604055771_thumbnail.jpg",
+		"name":" 蛋蛋猫 碧根果（长寿果）208g",
+		"price":"￥18.90",
+		"del":"￥22.00"
+	},{
+		"img":"img/goods/201612121559442484_thumbnail.jpg",
+		"name":"蛋蛋猫 手剥巴旦木 238g",
+		"price":"￥18.50",
+		"del":"￥28.00"
+	},{
+		"img":"img/goods/201612161513112975_thumbnail.jpg",
+		"name":"蛋蛋猫 盐焗开心果 210g ",
+		"price":"￥32.00",
+		"del":"￥39.00"
+	}]
+},
+{
+	"f_num":"6F",
+	"f_name":"海味肉脯",
+	"f_btn":[
+		"海苔海鲜","肉脯豆干","其他海产品","猪肉脯","牛肉脯"
+	],
+	"f_img":"img/index/201609231511331641.jpg",
+	"f_list":[{
+		"img":"img/goods/201507101525424082_thumbnail.jpg",
+		"name":"韩国进口 韩美禾한미화海苔 辣味",
+		"price":"￥8.90",
+		"del":"￥17.00"
+	},{
+		"img":"img/goods/201506241116265128_thumbnail.jpg",
+		"name":"香港进口 时选Fashion Choice猪肉脯 沙爹味",
+		"price":"￥12.80",
+		"del":"￥26.00"
+	},{
+		"img":"img/goods/201604051535542588_thumbnail.jpg",
+		"name":"泰国进口 小老板TaoKaeNoi脆紫菜 山葵味/芥末味",
+		"price":"￥9.80",
+		"del":"￥20.00"
+	},{
+		"img":"img/goods/201507171518381430_thumbnail.jpg",
+		"name":"韩国进口 韩福10.2烤紫菜",
+		"price":"￥8.80",
+		"del":"￥18.00"
+	},{
+		"img":"img/goods/201512231008413566_thumbnail.jpg",
+		"name":"韩国进口 思潮SAJO青海苔 紫苏籽油味 寿司原料",
+		"price":"￥38.00",
+		"del":"￥84.00"
+	}]
+},
+{
+	"f_num":"7F",
+	"f_name":"方便速食",
+	"f_btn":[
+		"罐头","方便面","面条","火腿肠","豆干","调味品"
+	],
+	"f_img":"img/index/201606131456338910.jpg",
+	"f_list":[{
+		"img":"img/goods/201604111337099410_thumbnail.jpg",
+		"name":"韩国进口 思潮SAJO金枪鱼罐头 蔬菜 低脂富含DHA 寿司材料",
+		"price":"￥10.80",
+		"del":"￥21.00"
+	},{
+		"img":"img/goods/201606031514199169_thumbnail.jpg",
+		"name":"泰国进口 素丽suree是拉差泰式辣椒酱",
+		"price":"￥13.80",
+		"del":"￥27.00"
+	},{
+		"img":"img/goods/201606141511062238_thumbnail.jpg",
+		"name":"韩国进口 八道Paldo泡面/方便面 龙虾味 不含味精",
+		"price":"￥8.80",
+		"del":"￥17.00"
+	},{
+		"img":"img/goods/201601141658039206_thumbnail.jpg",
+		"name":"泰国进口 养养yumyum泰式泡面/方便面 酸辣虾味 特浓",
+		"price":"￥6.80",
+		"del":"￥14.00"
+	},{
+		"img":"img/goods/201610131045435962_thumbnail.jpg",
+		"name":"泰国进口艾米方便面 iMee艾米冬阴功虾味方便面速食面",
+		"price":"￥18.00",
+		"del":"￥28.00"
+	},{
+		"img":"img/goods/201606081627239597_thumbnail.jpg",
+		"name":"印尼进口 喜达Sedaap干拌面/方便面 原味 非油炸",
+		"price":"￥13.80",
+		"del":"￥27.00"
+	},{
+		"img":"img/goods/201610131009194636_thumbnail.jpg",
+		"name":"新加坡进口方便面 可口 KOKA 泰式酸辣汤面 425g 方便面",
+		"price":"￥17.80",
+		"del":"￥25.00"
+	}]
+},
+{
+	"f_num":"8F",
+	"f_name":"礼盒套装",
+	"f_btn":[
+		"月饼","礼盒","量贩装","散装试吃","家庭装","其他"
+	],
+	"f_img":"img/index/201606131636144015.jpg",
+	"f_list":[{
+		"img":"img/goods/201603141029284894_thumbnail.jpg",
+		"name":"马来西亚进口 印象SIMELO脆皮花生 3种口味 3罐组合装",
+		"price":"￥37.80",
+		"del":"￥77.00"
+	},{
+		"img":"img/goods/201602191459242429_thumbnail.jpg",
+		"name":"马来西亚进口 上扬SunSoya白咖啡+奶茶 2盒组合装",
+		"price":"￥39.80",
+		"del":"￥89.00"
+	},{
+		"img":"img/goods/201601271009227771_thumbnail.jpg",
+		"name":"马来西亚进口 迪乐司Delos酥饼 7种口味 7盒组合装",
+		"price":"￥59.80",
+		"del":"￥129.00"
+	},{
+		"img":"img/goods/201604141042323204_thumbnail.jpg",
+		"name":"中国制造 惊奇Aji夹心饼干 起士味 家庭装 750g",
+		"price":"￥29.80",
+		"del":"￥59.00"
+	},{
+		"img":"img/goods/201610251006325603_thumbnail.jpg",
+		"name":"高档零食套餐办公室生日聚会套餐",
+		"price":"￥158.00",
+		"del":"￥218.00"
+	},{
+		"img":"img/goods/201610251046430882_thumbnail.jpg",
+		"name":"超值进口零食大礼包",
+		"price":"￥108.00",
+		"del":"￥139.00"
+	},{
+		"img":"img/goods/201610251037515377_thumbnail.jpg",
+		"name":"进口方便面金枪鱼罐头组合装 加班熬夜补充能量",
+		"price":"￥78.00",
+		"del":"￥102.00"
+	},{
+		"img":"img/goods/201610251015167917_thumbnail.jpg",
+		"name":"巧克力爱心礼包送男朋友闺蜜礼盒/女生实用表白礼物",
+		"price":"￥108",
+		"del":"￥158.00"
+	}]
+}
+]

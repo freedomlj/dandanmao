@@ -174,6 +174,64 @@ $(function(){
 		}
 	});
 	
+	//floor
+	$.ajax(
+		{
+		type:"get",
+		url:"mock/floor.json",
+		dataType:"json",
+		success:function(data){
+			floor();
+			function floor(){
+				var str="";
+				for(var i=0;i<data.length;i++){
+					var ftit="";
+					ftit+=`<h2>
+								<span>${data[i].f_num}</span>
+								<b>${data[i].f_name}</b>
+							</h2>`;
+							
+					var fbtn="";
+					for(var j=0;j<data[i].f_btn.length;j++){
+						fbtn+=`<a href="##" class="f_btn">${data[i].f_btn[j]}</a>`
+					}
+					var fli="";
+					for(var k=0;k<data[i].f_list.length;k++){
+						fli+=`<li>
+								<a href="##">
+									<img src="${data[i].f_list[k].img}"/>
+									<p>${data[i].f_list[k].name}</p>
+									<b>${data[i].f_list[k].price}</b><del>${data[i].f_list[k].del}</del>
+									<div class="add_cart">加入购物车</div>
+								</a>
+							</li>`
+					}
+					
+					str+=`<div class="floor">
+							<div class="f_l">
+								<div class="ftitle">
+									${ftit}
+								</div>
+								
+								<div class="f_btn_box">
+									${fbtn}
+								</div>
+								
+								<a href="##" class="adp">
+									<img src="${data[i].f_img}"/>
+								</a>
+							</div>
+							
+							<ul class="f_r">
+								${fli}
+							</ul>
+						</div>`;
+				}
+				$(".allfloor").html(str);
+			}
+		}
+	});
+	
 	
 	
 })

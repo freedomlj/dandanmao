@@ -1,0 +1,117 @@
+#footer .footer_top {
+  width: 1200px;
+  height: 55px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#footer .footer_top a {
+  float: left;
+  width: 127px;
+  height: 55px;
+  padding-left: 55px;
+  text-align: center;
+  line-height: 55px;
+  font: 18px/55px Microsoft YaHei;
+  background: url(../img/index/fotico.png) no-repeat;
+}
+#footer .footer_top a:nth-child(1) {
+  background-position: -58px -15px;
+}
+#footer .footer_top a:nth-child(2) {
+  background-position: -280px -15px;
+}
+#footer .footer_top a:nth-child(3) {
+  background-position: -515px -15px;
+}
+#footer .footer_top a:nth-child(4) {
+  background-position: -755px -15px;
+}
+#footer .footer_top a:nth-child(5) {
+  background-position: -999px -15px;
+}
+#footer .sn-server {
+  margin-top: 20px;
+  width: 1200px;
+  height: 170px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#footer .sn-server li {
+  width: 230px;
+  height: 170px;
+  border-left: 1px solid #ddd;
+  padding-left: 76px;
+}
+#footer .sn-server li:nth-of-type(1) {
+  border: none;
+}
+#footer .sn-server li p {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 35px;
+  color: #666;
+}
+#footer .sn-server li a {
+  display: block;
+  color: #999;
+  font-size: 14px;
+  min-width: 80px;
+  height: 24px;
+  padding-left: 10px;
+  background: url(../img/index/dian.jpg) no-repeat left center;
+  line-height: 24px;
+}
+#footer .sn-server li a:hover {
+  color: #FF4176;
+}
+#footer .sn-server li img {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+#footer .fabout {
+  margin-top: 10px;
+  width: 1200px;
+  text-align: center;
+}
+#footer .fabout span {
+  color: #FF4176;
+}
+#footer .fabout a {
+  margin-left: 35px;
+}
+#footer .foot {
+  margin-top: 10px;
+  background: #ed134f;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+}
+#footer .foot a {
+  line-height: 30px;
+  color: #fff;
+  border-left: 2px solid #fff;
+  padding: 0 10px;
+}
+#footer .foot a:nth-child(1) {
+  border: none;
+}
+#footer .footer_bottom {
+  width: 1200px;
+  height: 84px;
+  text-align: center;
+}
+#footer .footer_bottom p {
+  line-height: 40px;
+}
+#footer .footer_bottom a {
+  margin: 0 4px;
+}
+#footer .footer_bottom a img {
+  width: 96px;
+  height: 33px;
+}
+
+/*# sourceMappingURL=footer.css.map */
